@@ -1,0 +1,4 @@
+1、编辑main.go  生成table2struct二进制
+2、使用 ./make_struct.sh table_prefix 生成对应的表
+3、如有需求可以修改源码生成符合自己模式的源 orm gorm xorm等等
+4、main.go为改造的开源代码
